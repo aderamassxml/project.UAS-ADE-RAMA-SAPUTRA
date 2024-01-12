@@ -11,4 +11,5 @@ Selain itu terdapat cemilan seperti keripik singkong balado, dan gorengan tempe 
 
 ![preview aplikasi](./media/prototype-app.png)
 
-## Download
+## Deployment
+Untuk menjalankan Food Ordering App ini, bisa deploy ini ke Android Studio. [Instruksi](./docs/getting_started.md)
