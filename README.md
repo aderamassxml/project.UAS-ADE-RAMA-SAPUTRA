@@ -14,8 +14,7 @@ Selain itu terdapat cemilan seperti keripik singkong balado, dan gorengan tempe 
 ## Fitur
 
 * **Details** - Melihat detail menu makanan/minuman.
-* **Menu** - Menentukan menu makanan/minuman yang diinginkan.
-* **Home** - Menentukan jumlah makanan/minuman.
+* **Home** - Menentukan jumlah makanan/minuman untuk ditambahkan ke dalam keranjang.
 * **CartList** - Melihat keranjang pesanan. Dan jumlah total harga. Checkout
 
 ## Deployment
