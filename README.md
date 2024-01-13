@@ -11,5 +11,22 @@ Selain itu terdapat cemilan seperti keripik singkong balado, dan gorengan tempe 
 
 ![preview aplikasi](./media/prototype-app.png)
 
+## Fitur
+
+* **Details** - Melihat detail menu makanan/minuman.
+* **Menu** - Menentukan menu makanan/minuman yang diinginkan.
+* **Home** - Menentukan jumlah makanan/minuman.
+* **CartList** - Melihat keranjang pesanan. Dan jumlah total harga. Checkout
+
 ## Deployment
-Untuk menjalankan Food Ordering App ini, bisa deploy ini ke Android Studio. [Instruksi](./docs/getting_started.md)
+Untuk menjalankan Food Ordering App ini, bisa deploy ini ke Android Studio. Berikut langkah-langkahnya.
+
+* **Download File Project**
+* **Ekstrak File Project**
+* **Buka Aplikasi Android Studio**
+* **Open File Project Yang Sudah di Ekstrak**
+* **PENTING! Lakukan Gradle Sync Project**
+* **Run!**
+
+
+
